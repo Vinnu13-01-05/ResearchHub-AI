@@ -1,5 +1,4 @@
-fastapi
-uvicorn
-python-dotenv
+streamlit
 groq
-requests
+python-dotenv
+pypdf
